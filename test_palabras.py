@@ -1,6 +1,6 @@
 import unittest
 
-from countletters import contarpalabras
+from contarpalabras import contarpalabras
 class TestCountLetters(unittest.TestCase):
     
     def test1(self):
